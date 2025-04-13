@@ -1,0 +1,15 @@
+#Libraries
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import scipy 
+from scipy import stats
+import matplotlib.pyplot as plt
+
+from scipy.stats import ttest_ind
+import pingouin as pg
+
+import geopandas as gpd
+from shapely.geometry import Point
+import matplotlib.pyplot as plt
+import contextily as ctx
